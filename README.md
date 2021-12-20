@@ -1,4 +1,4 @@
-<h1 align="center">Lange Page Responsive Website</h1>
+<h1 align="center">Landing Page Responsive Website</h1>
 
 <div align="center">
   <h3>
